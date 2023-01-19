@@ -5,7 +5,7 @@ const {
   getAllProductsTest,
   getJson,
 } = require("../controllers/products");
-router.route("/").get(getAllProducts);
+router.route("/").get(getJson);
 router.route("/product").get(getAllProductsTest);
 router.route("/json").get(getJson);
 module.exports = router;
