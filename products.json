@@ -1,0 +1,47 @@
+[
+    {
+        "name":"iphone14",
+        "company":"apple",
+        "price":"1299",
+        "feature":"vlogging"
+    },
+    {
+        "name":"s22 ultra",
+        "company":"samsung",
+        "price":"1499",
+        "feature":"Zoom"
+    },
+    {
+        "name":"note 12",
+        "company":"xiaomi",
+        "price":"999",
+        "feature":"fast"
+    },
+    {
+
+        "name":"ROG",
+        "company":"asus",
+        "price":"899",
+        "feature":"Gaming"
+    },
+    {
+
+        "name":"zenphone 14",
+        "company":"Asus",
+        "price":"699",
+        "feature":"compact"
+    },
+    {
+        "name":"pixel 7",
+        "company":"Google",
+        "price":"899",
+        "feature":"camera"
+    },
+    {
+        "name":"pixel 9",
+        "company":"Google",
+        "price":"899",
+        "feature":"front camera"
+    }
+
+]
